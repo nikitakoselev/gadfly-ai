@@ -3,7 +3,7 @@
 The LinkedIn DevRel contributions table
 
 | Name | Link | Impressions |
-| @NikitaKoselev | https://www.linkedin.com/feed/update/urn:li:activity:7093287030100484096/ | 25 |
+| @NikitaKoselev | https://www.linkedin.com/posts/nikitakoselev_ai-futureofai-emotions-activity-7093314633901436929-rxKT?utm_source=share&utm_medium=member_desktop| 25 |
 
 The Dev.to contributions table
 | Name | Link |
