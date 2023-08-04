@@ -11,4 +11,4 @@ The Dev.to contributions table
 
 The Twitter contributions table
 | Name | Link |
-| @NikitaKoselev | https://twitter.com/nikitakoselev/status/1069480098771923456 | 
+| @NikitaKoselev | https://twitter.com/nikitakoselev/status/1069480098771923456 |
