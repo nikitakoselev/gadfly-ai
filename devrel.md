@@ -1,8 +1,13 @@
 The DevRel roadmap:
+
 Day 1: Establish online connections with open source communities related to AI.
+
 Week 1: Identify potential collaborations and partnerships, and promote them on social media.
+
 Week 2: Write a SEO-optimized blog post for the Cyberscape Zine about these collaborations, mentioning the partnership with Hackernoon.
+
 Week 3: Organize a Reddit AMA (Ask Me Anything) session with key figures from the open source communities.
+
 Week 4: Share updates on the collaborations and partnerships on the GadflyAI website.
 
 The Open Source communities to collaborate (incomplete list):
