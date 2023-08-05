@@ -6,16 +6,20 @@ Week 3: Organize a Reddit AMA (Ask Me Anything) session with key figures from th
 Week 4: Share updates on the collaborations and partnerships on the GadflyAI website.
 
 The Open Source communities to collaborate (incomplete list):
-| Community Name | Link | Description |
-|Codebar||A community oriented towards beginners in IT and career switchers. A lot of the students might be really interested in AI writing.
+| Community Name | Link | Description | Contact status |
+| Codebar | https://codebar.io/ | A community oriented towards beginners in IT and career switchers. A lot of the 
+students might be really | contact has been initiated 
+| Coderoots| https://coderoots.io | Amazing community oriented towards helping kids in Gambia to learn IT | contact has 
+been initiated
+interested in AI writing.
 | SouJava | https://soujava.org.br | One of the biggest Java communities in the world. They definitely have some
 people interested in AI
-| OpenUK | https://openuk.uk/ | UK focused Open Source & Open Data community. A lot of members are interested in AI
 | FINOS | https://www.finos.org/ | Fintech Open Source foundation. A lot of members are interested in AI
 | Refact | https://refact.ai/ | Refact is a powerful AI coding assistant that combines completion, refactoring, chat,
 and more. The community is yet small, but those who are there are interested in AI, a lot
-| GResearch
-| Mintycode
+| GResearch | https://www.gresearch.com/ | GResearch is a financial company, with a lot of presence in AI and open 
+source
+| Mintycode |
 | ??? opensource conferencein the USA
 | DevoxxUK friends?
 | open-appsec | https://openappsec.io |  open-source machine learning based App & API Security solution.
