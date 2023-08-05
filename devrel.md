@@ -7,6 +7,7 @@ Week 4: Share updates on the collaborations and partnerships on the GadflyAI web
 
 The Open Source communities to collaborate (incomplete list):
 | Community Name | Link | Description |
+|Codebar||A community oriented towards beginners in IT and career switchers. A lot of the students might be really interested in AI writing.
 | SouJava | https://soujava.org.br | One of the biggest Java communities in the world. They definitely have some
 people interested in AI
 | OpenUK | https://openuk.uk/ | UK focused Open Source & Open Data community. A lot of members are interested in AI
