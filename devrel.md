@@ -6,26 +6,20 @@ Week 3: Organize a Reddit AMA (Ask Me Anything) session with key figures from th
 Week 4: Share updates on the collaborations and partnerships on the GadflyAI website.
 
 The Open Source communities to collaborate (incomplete list):
-| Community Name | Link | Description | Contact status |
-| Codebar | https://codebar.io/ | A community oriented towards beginners in IT and career switchers. A lot of the 
-students might be really | contact has been initiated 
-| Coderoots| https://coderoots.io | Amazing community oriented towards helping kids in Gambia to learn IT | contact has 
-been initiated
-interested in AI writing.
-| SouJava | https://soujava.org.br | One of the biggest Java communities in the world. They definitely have some
-people interested in AI
-| FINOS | https://www.finos.org/ | Fintech Open Source foundation. A lot of members are interested in AI
-| Refact | https://refact.ai/ | Refact is a powerful AI coding assistant that combines completion, refactoring, chat,
-and more. The community is yet small, but those who are there are interested in AI, a lot
-| GResearch | https://www.gresearch.com/ | GResearch is a financial company, with a lot of presence in AI and open 
-source
-| Mintycode |
-| ??? opensource conferencein the USA
-| DevoxxUK friends?
-| open-appsec | https://openappsec.io |  open-source machine learning based App & API Security solution.
-| Code4Life | 
-| DevSecOps Community | https://snyk.io/community/ | Snyk-supported DevSecOps community. Some of leaders will be 
-interested in AI
+
+| Community Name       | Link                    | Description                                                                                                                                                                      | Contact status             |
+|----------------------|-------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| Codebar              | https://codebar.io/     | A community oriented towards beginners in IT and career switchers. A lot of the students might be really                                                                         | contact has been initiated |
+| Coderoots            | https://coderoots.io    | Amazing community, oriented towards helping kids in Gambia to learn IT                                                                                                           | contact has been initiated |
+| SouJava              | https://soujava.org.br  | One of the biggest Java communities in the world. They definitely have some people interested in AI                                                                              | contact has been initiated |
+| FINOS                | https://www.finos.org/  | Fintech Open Source foundation. A lot of members are interested in AI                                                                                                            | contact has been initiated |
+| Refact               | https://refact.ai/      | Refact is a powerful AI coding assistant that combines completion, refactoring, chat,  and more. The community is yet small, but those who are there are interested in AI, a lot | contact has been initiated |
+| GResearch            | https://www.gresearch.com/ | GResearch is a financial company, with a lot of presence in AI and open source                                                                                                   | contact has been initiated |
+| Major League Hacking | https://mlh.io/         | Friendly community helping people to progress in IT                            | contact has been initiated |
+| Code4Life | https://code4.life/     | friendly Java related community, led by Bruno Souza and other Java friends | contact has been initiated |
+| Mintycode | https://mintycode.io/   | | 
+| open-appsec          | https://openappsec.io   | open-source machine learning based App & API Security solution. || 
+| DevSecOps Community  | https://snyk.io/community/ | Snyk-supported DevSecOps community. Some of leaders will beinterested in AI | |
 
 Example text for approaching a community:
 Quick question. Gadfly.AI is running a friendly AI writing competition at Hackernoon.
