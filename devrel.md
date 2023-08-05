@@ -13,7 +13,14 @@ people interested in AI
 | FINOS | https://www.finos.org/ | Fintech Open Source foundation. A lot of members are interested in AI
 | Refact | https://refact.ai/ | Refact is a powerful AI coding assistant that combines completion, refactoring, chat,
 and more. The community is yet small, but those who are there are interested in AI, a lot
-
+| GResearch
+| Mintycode
+| ??? opensource conferencein the USA
+| DevoxxUK friends?
+| open-appsec | https://openappsec.io |  open-source machine learning based App & API Security solution.
+| Code4Life | 
+| DevSecOps Community | https://snyk.io/community/ | Snyk-supported DevSecOps community. Some of leaders will be 
+interested in AI
 
 Example text for approaching a community:
 Quick question. Gadfly.AI is running a friendly AI writing competition at Hackernoon.
