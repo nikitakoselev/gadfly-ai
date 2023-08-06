@@ -23,9 +23,9 @@ The Open Source communities to collaborate (incomplete list):
 | Major League Hacking    | https://mlh.io/         | Friendly community helping people to progress in IT                            | contact has been initiated |
 | Code4Life               | https://code4.life/     | friendly Java related community, led by Bruno Souza and other Java friends | contact has been initiated |
 | Snyk/DevSecOps Community | https://snyk.io/community/ | Snyk-supported DevSecOps community. Some of leaders will beinterested in AI | contact has been initiated |
-| open-appsec             | https://openappsec.io   | open-source machine learning based App & API Security solution. | contact has been initiated                           | 
-| OpenUK                  |https://openuk.uk/| OpenUK is the UK Organisation for the business of Open Technology being open source software, open hardware and open data  – “The 3 Opens”.|contact has been initiated|
-
+| open-appsec             | https://openappsec.io   | open-source machine learning based App & API Security solution. | contact has been initiated | 
+| OpenUK                  |https://openuk.uk/| OpenUK is the UK Organisation for the business of Open Technology being open source software, open hardware and open data  – “The 3 Opens”.| contact has been initiated |
+| Recworks | https://recworks.co.uk/| A recruitment agency that supports Java and AI communities in London, a lot| contact has been initiated         |
 
 Example text for approaching a community:
 Quick question. Gadfly.AI is running a friendly AI writing competition at Hackernoon.
