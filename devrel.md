@@ -26,6 +26,7 @@ The Open Source communities to collaborate (incomplete list):
 | open-appsec             | https://openappsec.io   | open-source machine learning based App & API Security solution. | contact has been initiated | 
 | OpenUK                  |https://openuk.uk/| OpenUK is the UK Organisation for the business of Open Technology being open source software, open hardware and open data  – “The 3 Opens”.| contact has been initiated |
 | Recworks | https://recworks.co.uk/| A recruitment agency that supports Java and AI communities in London, a lot| contact has been initiated         |
+| Vanus.ai | https://www.vanus.ai/ | Cloud and AI tools | contact has been initiated |
 
 Example text for approaching a community:
 Quick question. Gadfly.AI is running a friendly AI writing competition at Hackernoon.
